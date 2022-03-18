@@ -1,6 +1,8 @@
 # my-template-website-shopping-website
 My Template Website - Shopping Website
+<br>
 This page is a sample shopping page.
+<br>
 This page is compatible with mobile devices.
 <br>
 !* Mobile View *!
